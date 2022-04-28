@@ -47,6 +47,6 @@ I convert coffee☕into code 👩‍💻
 
 <div width="100%" align="center"><a href="https://github.com/Burhanuddin-49/Gmail-Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Burhanuddin-49&repo=Gmail-Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Burhanuddin-49/Jarvis-Virtual-Assistant" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Burhanuddin-49&repo=Jarvis-Virtual-Assistant&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br />
 
 <div width="100%" align="center"><a href="https://github.com/Burhanuddin-49/LinkedIn-Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Burhanuddin-49&repo=LinkedIn-Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Burhanuddin-49/NewsMonkey" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Burhanuddin-49&repo=NewsMonkey&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
